@@ -362,6 +362,9 @@ Another important pillar in the CI/CD pipeline is test automation tools. The fol
 * **[Jmeter](https://jmeter.apache.org/)**: An open-source software to test performance both on static and dynamic resources.
 * **[Blazemeter](https://www.blazemeter.com/)**: A continuous testing platform for performance testing, monitoring, and more.
 * **[Tosca](https://www.tricentis.com/products/automate-continuous-testing-tosca)**: A software testing tool that leverages the TOSCA standard. Tricentis Tosca is an enterprise-level, continuous testing platform that uses model-based test automation to enable accelerated testing.
+* **[Keploy](https://keploy.io/)**: Open Source AI-driven API, integration & unit testing tool that records real network interactions (HTTP, database, etc.) to auto-generate tests and mocks; works with CI/CD and offers high-coverage, non-flaky test automation.
+
+
 
 ## Centralized Documentation Management tools
 
